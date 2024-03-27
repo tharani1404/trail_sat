@@ -3,7 +3,6 @@ from flask_login import LoginManager, UserMixin, login_user, login_required, log
 import mysql.connector
 import base64
 import sqlite3
-from werkzeug.security import generate_password_hash, check_password_hash
 from flask import send_file
 from PIL import Image
 from io import BytesIO
