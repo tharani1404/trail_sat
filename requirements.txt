@@ -1,4 +1,4 @@
-﻿blinker==1.6.2
+blinker==1.6.2
 certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
@@ -31,4 +31,4 @@ python-dotenv==1.0.0
 requests==2.31.0
 tqdm==4.66.2
 urllib3==2.2.1
-Werkzeug==1.*
+Werkzeug>=1.0,<2.0
